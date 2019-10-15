@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+#Nullable enable
 namespace NewFeatureInCSharp7._0
 {
     class Program
